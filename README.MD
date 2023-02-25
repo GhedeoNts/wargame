@@ -23,13 +23,18 @@ L'application est un peu datée, il s'agit d'un front desktop en java Swing qui 
 L'application desktop sera modifiée par le neveu d'un membre. Le public n'étant pas tout jeune, il s'oppose à une refonte ou une modernisation de l'application.
 
 Le neveu demande trois nouvelles fonctionnalités.
-
-créer une fonction qui donne directement les utilisateurs en ajoutant un boolean s'ils sont spectateurs
-
-permettre d'afficher directement une armée et les types d'unité qui la compose, avec la possibilité de faire des tris dessus (etc...)
-
-lorsqu'un utilisateur quitte l'association, supprimer ses données mais insérer son surnom et son nombre de victoires dans la table des victoires.
 </p>
+<ul>
+<li>
+créer une fonction qui donne directement les utilisateurs en ajoutant un boolean s'ils sont spectateurs
+</li>
+<li>
+permettre d'afficher directement une armée et les types d'unité qui la compose, avec la possibilité de faire des tris dessus (etc...)
+</li>
+<li>
+lorsqu'un utilisateur quitte l'association, supprimer ses données mais insérer son surnom et son nombre de victoires dans la table des victoires.
+</li>
+</ul>
 
 ## Modalités pédagogiques
 <p>
